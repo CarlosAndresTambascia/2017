@@ -1,7 +1,8 @@
-## Listado de alumnos
+## Proyecto correspondiente a la materia Avanzada II UTN
 
-* [zeratulmdq](https://github.com/zeratulmdq) - Martin Benvenuti
-* [ignaciocasales](https://github.com/ignaciocasales) - Ignacio Casales
-* [SantiBlanc87](https://github.com/SantiBlanc87) - Santiago Blanc
-* [Facundo97Maldonado](https://github.com/Facundo97Maldonado) - Facundo Maldonado
-* [fedealdosivi](https://github.com/fedealdosivi) - Federico Palomero García
+## Tecnologías utilizadas
+
+* [VueJS](https://vuejs.org/) - The Progressive
+JavaScript Framework
+* [SocketIO](https://socket.io/) - REAL-TIME ENGINE
+* [AXIOS](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
