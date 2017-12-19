@@ -1,4 +1,4 @@
-# Globla News. (2017)
+# Global News. (2017)
 
 
 ## Summary
